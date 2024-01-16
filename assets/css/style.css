@@ -1,0 +1,55 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+header {
+  background: #28a745;
+}
+
+.container-fluid {
+  background: #28a745;
+}
+
+.navbar-toggler {
+  border-color: white;
+}
+
+.navbar-toggler-icon {
+  color: white;
+}
+
+#promo-price {
+  color: #28a745;
+  font-weight: 500;
+}
+
+.card-body {
+  font-weight: 300;
+}
+
+#container-form {
+  background: #28a745;
+  margin: 0;
+}
+
+#button {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.form-control {
+  font-weight: 300;
+}
+
+#footer-white {
+  background: white;
+}
+
+.footer-text {
+  font-weight: 300;
+  font-size: 1rem;
+  align-items: center;
+}
+#footer-brand {
+  color: black;
+}
